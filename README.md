@@ -1,10 +1,10 @@
-# ASPNET-Firewall (SIGIL)
+# ASPNET-Safe-Forms 
 
 Student Project.
-Web-Backend Firewall/ Proxy. 
+Web-Backend. 
 
 Architecture
-client -> sigil-fw -> website -> DB
+client -> safe-forms-> website -> DB
 
 Planned Features:
   * SQL-Injection
